@@ -2,8 +2,22 @@
 
 Dự án này là một tập lệnh Python nhỏ gọn giúp chuyển đổi bất kỳ hình ảnh nào thành một tác phẩm nghệ thuật theo phong cách tranh xếp hình LEGO. Đây là kết quả của quá trình học hỏi và thực hành theo video hướng dẫn trên YouTube.
 
-![Ảnh ban đầu](input.jpg) <!-- Bạn hãy thay thế ảnh này bằng ảnh kết quả của bạn -->
-![Ví dụ kết quả](output.jpg) <!-- Bạn hãy thay thế ảnh này bằng ảnh kết quả của bạn -->
+<table align="center">
+  <tr>
+    <th align="center">Ảnh Gốc (Input)</th>
+    <th align="center">Kết quả LEGO (Output)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="input.jpg" alt="Ảnh gốc" width="400"/>
+      <!-- Thay 'input.jpg' bằng đường dẫn chính xác tới ảnh gốc của bạn -->
+    </td>
+    <td align="center">
+      <img src="output.jpg" alt="Ảnh kết quả LEGO" width="400"/>
+      <!-- Thay 'output.jpg' bằng đường dẫn chính xác tới ảnh kết quả của bạn -->
+    </td>
+  </tr>
+</table>
 
 ---
 
